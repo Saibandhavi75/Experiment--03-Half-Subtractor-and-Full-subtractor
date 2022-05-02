@@ -73,13 +73,13 @@ endmodule
 ![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-3.png?raw=true)
 ### Timing diagram:
 ![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-4.png?raw=true)
-### Full Suubtractor:
+### Full Subtractor:
 ### Logic Symbol:
 ![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-5.png?raw=true)
 ### Truthtable:
 ![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-6.png?raw=true)
 ### RTL realization:
-![output]https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-7.png(?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-7.png?raw=true)
 ### Timing diagram:
 ![output](https://github.com/Saibandhavi75/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/de-8.png?raw=true)
 
